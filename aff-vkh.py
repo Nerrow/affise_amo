@@ -26,3 +26,6 @@ def affise():
         print(f"ERROR: {e}")
 
     return 'ok'
+
+if __name__ == '__main__':
+    application.run()
