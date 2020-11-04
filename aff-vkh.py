@@ -30,6 +30,5 @@ def affise():
 
     return 'ok'
 
-
 if __name__ == '__main__':
     application.run()
